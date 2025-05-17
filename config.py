@@ -1,12 +1,12 @@
 import os
 
 # Main config.py
-language = "ru"
+language = os.getenv('LANG')
 
 SETTINGS = {
     "command_role": 1061998983158964285,
     "hasntRole_embed_color": 0xff1100,
-    "GUILD": 1310050065683058829,
+    "GUILD": os.getenv('GUILD'),
     "TOKEN": os.getenv('BOT_TOKEN')
 }
 LANG = {
