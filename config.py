@@ -1,0 +1,20 @@
+# Main config.py
+language = "ru"
+
+SETTINGS = {
+    "command_role": 1061998983158964285,
+    "hasntRole_embed_color": 0xff1100,
+    "GUILD": 1310050065683058829,
+    "TOKEN": ''
+}
+LANG = {
+    "name": "Discord SukaBot 3000",
+    "author": "Author",
+    "Discord": "Discord",
+    "Discord_link": "[Link](https://discord.gg/XTe6D8czUs)",
+    "Main_Language": "Main Language",
+    "role": {
+        "hasntRole_title": "ERROR",
+        "hasntRole_description": ":flag_ru: **RU**\nУ вас нет доступа!\n\n:flag_us: **EN**\nYou don't have access!"
+    }
+}

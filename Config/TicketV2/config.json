@@ -1,0 +1,13 @@
+{
+  "token": "",
+  "guild_id": 1310050065683058829,
+  "ticket_channel_id": 1328249038226849933,
+  "category_id_1": 1333526017628831867,
+  "category_id_2": 123,
+  "team_role_id_1": 1327714717468196948,
+  "team_role_id_2": 1327715845052436573,
+  "log_channel_id": 1338418693448925204,
+  "timezone": "RU",
+  "embed_title": "Support-Tickets",
+  "embed_description": "Here you can open a Support Ticket!"
+}
